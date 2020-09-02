@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: **The *Game* is ON!** :smiley:
 
 ---
 
